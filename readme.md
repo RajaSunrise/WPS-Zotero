@@ -13,7 +13,7 @@ A Zotero plugin for WPS Office, compatible with Windows, Linux, and macOS.
 
 ### Prerequisites
 
-- **WPS Office**: Latest version recommended.
+- **WPS Office**: Latest version recommended for (https://www.wps.cn).
 - **Zotero**: Version 6 or newer (including Zotero 7).
 - **Python 3**: Must be installed and available in your system PATH.
 
